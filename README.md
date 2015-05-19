@@ -10,5 +10,7 @@ HW programming exercises of the high-level graduate course CS/STAT 590 Statistic
 To run the code, clone whole directory, and:
 
 ```python
-python Solutions.py $args
+python Check.py $args
 ```
+
+[This](https://www.cs.purdue.edu/homes/alanqi/Courses/CS59000.html) is a reference to the course. 
